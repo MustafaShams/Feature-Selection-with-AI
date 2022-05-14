@@ -1,4 +1,4 @@
-# CS170_Project_2
+# Feature Selection AI
 ### Zachary Hill and Khuaja Shams
 
 The following is a guideline of what is expected when implementing the code and the different scenarios to expect for different inputs:

@@ -1,0 +1,82 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../header/Classifier.h
+vector
+-
+ctime
+-
+time.h
+-
+Dataset.h
+../header/Dataset.h
+
+../header/Dataset.h
+bits/stdc++.h
+-
+string
+-
+
+../header/Node.h
+bits/stdc++.h
+-
+vector
+-
+ctime
+-
+time.h
+-
+
+../header/Tree.h
+Node.h
+../header/Node.h
+
+../header/Validator.h
+vector
+-
+fstream
+-
+sstream
+-
+string
+-
+time.h
+-
+chrono
+-
+Classifier.h
+../header/Classifier.h
+
+../header/backward_elim.h
+Node.h
+../header/Node.h
+Tree.h
+../header/Tree.h
+
+../header/forward_selection.h
+Node.h
+../header/Node.h
+Tree.h
+../header/Tree.h
+
+C:/Users/Shams/Desktop/CS170 Project 2/CS170_Project_2/mainCode.cpp
+Validator.h
+C:/Users/Shams/Desktop/CS170 Project 2/CS170_Project_2/Validator.h
+Dataset.h
+C:/Users/Shams/Desktop/CS170 Project 2/CS170_Project_2/Dataset.h
+Classifier.h
+C:/Users/Shams/Desktop/CS170 Project 2/CS170_Project_2/Classifier.h
+iostream
+-
+Tree.h
+C:/Users/Shams/Desktop/CS170 Project 2/CS170_Project_2/Tree.h
+forward_selection.h
+C:/Users/Shams/Desktop/CS170 Project 2/CS170_Project_2/forward_selection.h
+backward_elim.h
+C:/Users/Shams/Desktop/CS170 Project 2/CS170_Project_2/backward_elim.h
+
